@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 Atualmente estou estou focado em me aprimorar JavaScript, SQL, Python e Node.js<br>🎯  Objetivo me tornar um Dev Full Stack de referência.<br>🎲 Nos tempo livre FPS, FC ou games de simulação e gerenciamento. Porem codificar é um prazer como jogar rs.</p>
+<p align="left">✨ Criando bugs desde 2002<br>📚 Atualmente estou estou focado em me aprimorar JavaScript, SQL, Python e Node.js<br>🎯  Objetivo me tornar um Dev Full Stack de referência.<br>🎲 Nos tempo livre FPS, FC ou games de simulação e gerenciamento. Porem codificar é um prazer como jogar rs.</p>
 
 ###
 
