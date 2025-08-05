@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GhostC0der/GhostC0der/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/luizotaviosalesbr/luizotaviosalesbr/output/snake.svg" alt="Snake animation" />
 
 ###
 
